@@ -10,10 +10,10 @@
 | GROUP1     | a h o v C J Q X            |
 | GROUP2     | b i p w D K R Y            |
 | GROUP3     | c j q x E L S Z            |
-| GROUP4     | d k r y F N T              |
-| GROUP5     | e l s z G M U              |
-| GROUP6     | f n t A H O V              |
-| GROUP7     | g m u B I P W              |
+| GROUP4     | d k r y F M T              |
+| GROUP5     | e l s z G N U              |
+| GROUP6     | f m t A H O V              |
+| GROUP7     | g n u B I P W              |
 
 ## 入出力例
 
